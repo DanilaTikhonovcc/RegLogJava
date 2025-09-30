@@ -1,0 +1,26 @@
+[
+  {
+    "login": "LOGIN1",
+    "password": "PAS1"
+  },
+  {
+    "login": "LOGIN2",
+    "password": "PAS2"
+  },
+  {
+    "login": "Login1",
+    "password": "Pas1"
+  },
+  {
+    "login": "",
+    "password": ""
+  },
+  {
+    "login": "Reigstr1",
+    "password": "Password1"
+  },
+  {
+    "login": "Login123",
+    "password": "Pas123"
+  }
+]
